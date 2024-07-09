@@ -1,3 +1,5 @@
+# incompatible with Flutter versions after 3.16.8
+
 # ecommerce_app
 
 A new Flutter project.
